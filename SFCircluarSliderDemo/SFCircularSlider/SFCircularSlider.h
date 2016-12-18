@@ -25,7 +25,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nullable, nonatomic, strong) UIColor *thumbTintColor UI_APPEARANCE_SELECTOR;
 @property (nullable, nonatomic, strong) UIColor *circularColor UI_APPEARANCE_SELECTOR;
 
-
 @end
 
 NS_ASSUME_NONNULL_END
